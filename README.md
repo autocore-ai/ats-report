@@ -1,3 +1,3 @@
 # ats-reports
 
-[Automated Test System Reports](https://autocore-ai.github.io/ats-report/)
+[Automated Test System Reports](https://autocore-ai.github.io/ats-report/report.html)
